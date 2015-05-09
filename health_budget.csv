@@ -1,52 +1,84 @@
 "Internal","Year","Function","Item","Amount"
+"Internal","13/14","Sector Monitoring and Quality Assurance","Quality Assurance", 805000
+"External","13/14","Sector Monitoring and Quality Assurance","Quality Assurance", 0
 "Internal","14/15","Sector Monitoring and Quality Assurance","Quality Assurance", 805000
 "External","14/15","Sector Monitoring and Quality Assurance","Quality Assurance", 0
 "Internal","15/16","Sector Monitoring and Quality Assurance","Quality Assurance", 805000
 "External","15/16","Sector Monitoring and Quality Assurance","Quality Assurance", 0
+"Internal","13/14","Health systems development","District Infrastructure Support Programme",1498000
+"External","13/14","Health systems development","District Infrastructure Support Programme",0
 "Internal","14/15","Health systems development","District Infrastructure Support Programme",1928553
 "External","14/15","Health systems development","District Infrastructure Support Programme",0
 "Internal","15/16","Health systems development","District Infrastructure Support Programme",14298000
 "External","15/16","Health systems development","District Infrastructure Support Programme",0
+"Internal","13/14","Health systems development","Rehab. Of Health Facilities in Eastern Region",0
+"External","13/14","Health systems development","Rehab. Of Health Facilities in Eastern Region",2640000
+"Internal","13/14","Health systems development","Insitutional Support to MoH",2049436
+"External","13/14","Health systems development","Insitutional Support to MoH",0
 "Internal","14/15","Health systems development","Insitutional Support to MoH",1170651
 "External","14/15","Health systems development","Insitutional Support to MoH",0
 "Internal","15/16","Health systems development","Insitutional Support to MoH",2701083
 "External","15/16","Health systems development","Insitutional Support to MoH",0
+"Internal","13/14","Health systems development","Energy for rural transformation programme",200000
+"External","13/14","Health systems development","Energy for rural transformation programme",0
+"Internal","13/14","Health systems development","Health Systems Strengthening",5400000
+"External","13/14","Health systems development","Health Systems Strengthening",107420000
 "Internal","14/15","Health systems development","Health Systems Strengthening",550000
 "External","14/15","Health systems development","Health Systems Strengthening",80610000
 "Internal","15/16","Health systems development","Health Systems Strengthening",299653
 "External","15/16","Health systems development","Health Systems Strengthening",81610000
+"Internal","13/14","Health systems development","Italian Support to HSSP and PRDP",100000
+"External","13/14","Health systems development","Italian Support to HSSP and PRDP",4760000
+"Internal","13/14","Health systems development","Support to Mulago Hospital Rehabilitation",1650000
+"External","13/14","Health systems development","Support to Mulago Hospital Rehabilitation",58060000
 "Internal","14/15","Health systems development","Support to Mulago Hospital Rehabilitation",850000
 "External","14/15","Health systems development","Support to Mulago Hospital Rehabilitation",55830000
 "Internal","15/16","Health systems development","Support to Mulago Hospital Rehabilitation",950000
 "External","15/16","Health systems development","Support to Mulago Hospital Rehabilitation",55830000
+"Internal","13/14","Health systems development","Rehabilitation and Construction of General Hospitals",0
+"External","13/14","Health systems development","Rehabilitation and Construction of General Hospitals",12590000
 "Internal","14/15","Health systems development","Rehabilitation and Construction of General Hospitals",0
 "External","14/15","Health systems development","Rehabilitation and Construction of General Hospitals",12590000
 "Internal","15/16","Health systems development","Rehabilitation and Construction of General Hospitals",0
 "External","15/16","Health systems development","Rehabilitation and Construction of General Hospitals",12590000
-"Internal","14/15","Health systems development","Rehabilitation and Equiping of Health Facilities in Wes",0
-"External","14/15","Health systems development","Rehabilitation and Equiping of Health Facilities in Wes",43580000
-"Internal","15/16","Health systems development","Rehabilitation and Equiping of Health Facilities in Wes",0
-"External","15/16","Health systems development","Rehabilitation and Equiping of Health Facilities in Wes",43580000
+"Internal","13/14","Health systems development","Rehabilitation and Equiping of Health Facilities in West",0
+"External","13/14","Health systems development","Rehabilitation and Equiping of Health Facilities in West",0
+"Internal","14/15","Health systems development","Rehabilitation and Equiping of Health Facilities in West",0
+"External","14/15","Health systems development","Rehabilitation and Equiping of Health Facilities in West",43580000
+"Internal","15/16","Health systems development","Rehabilitation and Equiping of Health Facilities in West",0
+"External","15/16","Health systems development","Rehabilitation and Equiping of Health Facilities in West",43580000
+"Internal","13/14","Health systems development","Construction of Specialised Neonatal and Maternal Uni",0
+"External","13/14","Health systems development","Construction of Specialised Neonatal and Maternal Uni",0
 "Internal","14/15","Health systems development","Construction of Specialised Neonatal and Maternal Uni",800000
 "External","14/15","Health systems development","Construction of Specialised Neonatal and Maternal Uni",13440000
 "Internal","15/16","Health systems development","Construction of Specialised Neonatal and Maternal Uni",900000
 "External","15/16","Health systems development","Construction of Specialised Neonatal and Maternal Uni",13440000
+"Internal","13/14","Health Research","Research Institutions",2171000
+"External","13/14","Health Research","Research Institutions",0
 "Internal","14/15","Health Research","Research Institutions",2171000
 "External","14/15","Health Research","Research Institutions",0
 "Internal","15/16","Health Research","Research Institutions",2461000
 "External","15/16","Health Research","Research Institutions",0
+"Internal","13/14","Health Research","JCRC",242000
+"External","13/14","Health Research","JCRC",0
 "Internal","14/15","Health Research","JCRC",242000
 "External","14/15","Health Research","JCRC",0
 "Internal","15/16","Health Research","JCRC",242000
 "External","15/16","Health Research","JCRC",0
+"Internal","13/14","Clinical and public health","Community Health",3112000
+"External","13/14","Clinical and public health","Community Health",0
 "Internal","14/15","Clinical and public health","Community Health",3112000
 "External","14/15","Clinical and public health","Community Health",0
 "Internal","15/16","Clinical and public health","Community Health",3112000
 "External","15/16","Clinical and public health","Community Health",0
+"Internal","13/14","Clinical and public health","Clinical Services",8485649
+"External","13/14","Clinical and public health","Clinical Services",0
 "Internal","14/15","Clinical and public health","Clinical Services",8885649
 "External","14/15","Clinical and public health","Clinical Services",0
 "Internal","15/16","Clinical and public health","Clinical Services",7411000
 "External","15/16","Clinical and public health","Clinical Services",0
+"Internal","13/14","Clinical and public health","National Disease Control",9325979
+"External","13/14","Clinical and public health","National Disease Control",0
 "Internal","14/15","Clinical and public health","National Disease Control",8731220
 "External","14/15","Clinical and public health","National Disease Control",0
 "Internal","15/16","Clinical and public health","National Disease Control",7136000
@@ -55,38 +87,58 @@
 "External","14/15","Clinical and public health","Shared National Services",0
 "Internal","15/16","Clinical and public health","Shared National Services",6930000
 "External","15/16","Clinical and public health","Shared National Services",0
+"Internal","13/14","Clinical and public health","Nursing Services",182251
+"External","13/14","Clinical and public health","Nursing Services",0
 "Internal","14/15","Clinical and public health","Nursing Services",182251
 "External","14/15","Clinical and public health","Nursing Services",0
 "Internal","15/16","Clinical and public health","Nursing Services",232175
 "External","15/16","Clinical and public health","Nursing Services",0
+"Internal","13/14","Clinical and public health","Public Health Laboratory strengthening project",600000
+"External","13/14","Clinical and public health","Public Health Laboratory strengthening project",13430000
 "Internal","14/15","Clinical and public health","Public Health Laboratory strengthening project",250000
 "External","14/15","Clinical and public health","Public Health Laboratory strengthening project",5110000
 "Internal","15/16","Clinical and public health","Public Health Laboratory strengthening project",350000
 "External","15/16","Clinical and public health","Public Health Laboratory strengthening project",5110000
+"Internal","13/14","Clinical and public health","Uganda Sanitation Fund Project",0
+"External","13/14","Clinical and public health","Uganda Sanitation Fund Project",580000
 "Internal","14/15","Clinical and public health","Uganda Sanitation Fund Project",150000
 "External","14/15","Clinical and public health","Uganda Sanitation Fund Project",3130000
 "Internal","15/16","Clinical and public health","Uganda Sanitation Fund Project",150000
 "External","15/16","Clinical and public health","Uganda Sanitation Fund Project",3130000
+"Internal","13/14","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",8841567
+"External","13/14","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",142575336
 "Internal","14/15","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",5014002
 "External","14/15","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",255800000
 "Internal","15/16","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",5000000
 "External","15/16","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",168815973
+"Internal","13/14","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",3200000
+"External","13/14","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",60710000
 "Internal","14/15","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",6500000
 "External","14/15","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",48290000
 "Internal","15/16","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",10030000
 "External","15/16","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",50300103
+"Internal","13/14","Policy, Planning and Support Services","Headquarters",4966671
+"External","13/14","Policy, Planning and Support Services","Headquarters",0
 "Internal","14/15","Policy, Planning and Support Services","Headquarters",7609719
 "External","14/15","Policy, Planning and Support Services","Headquarters",0
 "Internal","15/16","Policy, Planning and Support Services","Headquarters",9704719
 "External","15/16","Policy, Planning and Support Services","Headquarters",0
+"Internal","13/14","Policy, Planning and Support Services","Planning",3371483
+"External","13/14","Policy, Planning and Support Services","Planning",0
 "Internal","14/15","Policy, Planning and Support Services","Planning",4377024
 "External","14/15","Policy, Planning and Support Services","Planning",0
 "Internal","15/16","Policy, Planning and Support Services","Planning",4481969
 "External","15/16","Policy, Planning and Support Services","Planning",0
+"Internal","13/14","Policy, Planning and Support Services","Internal Audit Department",416000
+"External","13/14","Policy, Planning and Support Services","Internal Audit Department",0
 "Internal","14/15","Policy, Planning and Support Services","Internal Audit Department",416000
 "External","14/15","Policy, Planning and Support Services","Internal Audit Department",0
 "Internal","15/16","Policy, Planning and Support Services","Internal Audit Department",416000
 "External","15/16","Policy, Planning and Support Services","Internal Audit Department",0
+"Internal","13/14","Policy, Planning and Support Services","Development of Social Health Initiative",706000
+"External","13/14","Policy, Planning and Support Services","Development of Social Health Initiative",0
+"Internal","13/14","Policy, Planning and Support Services","Institutional Capacity Building",0
+"External","13/14","Policy, Planning and Support Services","Institutional Capacity Building",13903000
 "Internal","14/15","Policy, Planning and Support Services","Institutional Capacity Building",0
 "External","14/15","Policy, Planning and Support Services","Institutional Capacity Building",9615897
 "Internal","15/16","Policy, Planning and Support Services","Institutional Capacity Building",0
