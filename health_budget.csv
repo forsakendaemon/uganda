@@ -66,12 +66,12 @@
 "External","14/15","Health","Clinical and public health","Uganda Sanitation Fund Project",3130000
 "Internal","15/16","Health","Clinical and public health","Uganda Sanitation Fund Project",150000
 "External","15/16","Health","Clinical and public health","Uganda Sanitation Fund Project",3130000
-"Internal","13/14","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",8841567
-"External","13/14","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",142575336
-"Internal","14/15","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",5014002
-"External","14/15","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",255800000
-"Internal","15/16","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",5000000
-"External","15/16","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",168815973
+"Internal","13/14","Health","Pharmaceutical and Medical Supplies","The Global Fund",8841567
+"External","13/14","Health","Pharmaceutical and Medical Supplies","The Global Fund",142575336
+"Internal","14/15","Health","Pharmaceutical and Medical Supplies","The Global Fund",5014002
+"External","14/15","Health","Pharmaceutical and Medical Supplies","The Global Fund",255800000
+"Internal","15/16","Health","Pharmaceutical and Medical Supplies","The Global Fund",5000000
+"External","15/16","Health","Pharmaceutical and Medical Supplies","The Global Fund",168815973
 "Internal","13/14","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",3200000
 "External","13/14","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",60710000
 "Internal","14/15","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",6500000
@@ -473,7 +473,7 @@
 "Internal","15/16","Agago District","Primary Healthcare","Conditional Grant to District Hospitals",0
 "Internal","15/16","Kween District","Primary Healthcare","Conditional Grant to District Hospitals",0
 "Internal","15/16","Arua Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
-"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Health Conditional Grant to District Hospitals",0
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
 "Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
 "Internal","15/16","Gulu Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
 "Internal","15/16","Jinja Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
@@ -954,7 +954,7 @@
 "Internal","15/16","Isingiro District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Kaliro District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Kiruhura District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
-"Internal","15/16","Koboko District","Primary Healthcare","Conditional Sanitation and Hygiene Grant - Health Component",74542
+"Internal","15/16","Koboko District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",74542
 "Internal","15/16","Amolatar District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",80981
 "Internal","15/16","Amuria District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",406368
 "Internal","15/16","Manafwa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
@@ -967,7 +967,7 @@
 "Internal","15/16","Abim District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Namutumba District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Dokolo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",93979
-"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bullisa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Maracha District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",119765
 "Internal","15/16","Bukedea Distrct","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",151803
 "Internal","15/16","Bududa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
@@ -1023,7 +1023,7 @@
 "Internal","15/16","Iganga Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Masindi Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
-"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
 "Internal","15/16","Adjumani District","Primary Healthcare","General Hospitals Rehabilitation",400000
@@ -1087,7 +1087,7 @@
 "Internal","15/16","Isingiro District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Kaliro District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Kiruhura District","Primary Healthcare","General Hospitals Rehabilitation",0
-"Internal","15/16","Koboko District","Primary Healthcare","Conditional General Hospitals Rehabilitation",0
+"Internal","15/16","Koboko District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Amolatar District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Amuria District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Manafwa District","Primary Healthcare","General Hospitals Rehabilitation",0
@@ -1100,7 +1100,7 @@
 "Internal","15/16","Abim District","Primary Healthcare","General Hospitals Rehabilitation",700000
 "Internal","15/16","Namutumba District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Dokolo District","Primary Healthcare","General Hospitals Rehabilitation",0
-"Internal","15/16","Bullisa District","Primary Healthcare","Conditional General Hospitals Rehabilitation",0
+"Internal","15/16","Bullisa District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Maracha District","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Bukedea Distrct","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Bududa District","Primary Healthcare","General Hospitals Rehabilitation",0
@@ -1156,7 +1156,7 @@
 "Internal","15/16","Iganga Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Masindi Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
-"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant General Hospitals Rehabilitation",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
 "Internal","14/15","Health","Primary Healthcare","Conditional Grant to NGO Hospitals",17195000

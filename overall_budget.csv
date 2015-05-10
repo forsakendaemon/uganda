@@ -1,65 +1,97 @@
 "Year","Sector","Internal","Amount"
-"14/15","Security","Internal",906.04
-"14/15","Security","External",253.24
-"15/16","Security","Internal",955.34
-"15/16","Security","External",562.32
-"14/15","Works and Transport","Internal",1886.05
-"14/15","Works and Transport","External",503.32
-"15/16","Works and Transport","Internal",1991.42
-"15/16","Works and Transport","External",1206.59
-"14/15","Agriculture","Internal",344.44
-"14/15","Agriculture","External",129.28
-"15/16","Agriculture","Internal",369.01
-"15/16","Agriculture","External",115.67
-"14/15","Education","Internal",1793.95
-"14/15","Education","External",232.68
-"15/16","Education","Internal",1811.48
-"15/16","Education","External",200.48
-"14/15","Health","Internal",748.64
-"14/15","Health","External",532.50
-"15/16","Health","Internal",782.46
-"15/16","Health","External",451.94
-"14/15","Water and Environment","Internal",246.66
-"14/15","Water and Environment","External",155.80
-"15/16","Water and Environment","Internal",287.61
-"15/16","Water and Environment","External",233.28
-"14/15","Justice/Law and Order","Internal",806.77
-"14/15","Justice/Law and Order","External",0.83
-"15/16","Justice/Law and Order","Internal",906.62
-"15/16","Justice/Law and Order","External",0
-"14/15","Accountability","Internal",1156.59
-"14/15","Accountability","External",31.87
-"15/16","Accountability","Internal",1034.47
-"15/16","Accountability","External",72.36
-"14/15","Energy and Mineral Development","Internal",1316.39
-"14/15","Energy and Mineral Development","External",513
-"15/16","Energy and Mineral Development","Internal",320.99
-"15/16","Energy and Mineral Development","External",2461.73
-"14/15","Tourism, Trade and Industry","Internal",60.73
-"14/15","Tourism, Trade and Industry","External",3.15
-"15/16","Tourism, Trade and Industry","Internal",78.53
-"15/16","Tourism, Trade and Industry","External",0.78
-"14/15","Lands, Housing and Urban Development","Internal",30.43
-"14/15","Lands, Housing and Urban Development","External",66.19
-"15/16","Lands, Housing and Urban Development","Internal",32.47
-"15/16","Lands, Housing and Urban Development","External",93.47
-"14/15","Social Development","Internal",71.30
-"14/15","Social Development","External",0
-"15/16","Social Development","Internal",79.97
-"15/16","Social Development","External",0
-"14/15","Information and Communication Technology","Internal",17.01
-"14/15","Information and Communication Technology","External",0
-"15/16","Information and Communication Technology","Internal",20.87
-"15/16","Information and Communication Technology","External",0
-"14/15","Public Sector Management","Internal",938.57
-"14/15","Public Sector Management","External",252.45
-"15/16","Public Sector Management","Internal",677.25
-"15/16","Public Sector Management","External",98.87
-"14/15","Public Administration","Internal",554.84
-"14/15","Public Administration","External",0
-"15/16","Public Administration","Internal",716.35
-"15/16","Public Administration","External",0
-"14/15","Legislature","Internal",331.92
-"14/15","Legislature","External",0
-"15/16","Legislature","Internal",301.68
-"15/16","Legislature","External",0
+"13/14","Security","Internal",804050000
+"13/14","Security","External",244450000
+"14/15","Security","Internal",906040000
+"14/15","Security","External",253240000
+"15/16","Security","Internal",955340000
+"15/16","Security","External",562320000
+"13/14","Works and Transport","Internal",182980000
+"13/14","Works and Transport","External",680850000
+"14/15","Works and Transport","Internal",1886050000
+"14/15","Works and Transport","External",503320000
+"15/16","Works and Transport","Internal",1991420000
+"15/16","Works and Transport","External",1206590000
+"13/14","Agriculture","Internal",315020000
+"13/14","Agriculture","External",67660000
+"14/15","Agriculture","Internal",344440000
+"14/15","Agriculture","External",129280000
+"15/16","Agriculture","Internal",369010000
+"15/16","Agriculture","External",115670000
+"13/14","Education","Internal",1473390000
+"13/14","Education","External",288190000
+"14/15","Education","Internal",1793950000
+"14/15","Education","External",232680000
+"15/16","Education","Internal",1811480000
+"15/16","Education","External",200480000
+"13/14","Health","Internal",710820000
+"13/14","Health","External",416670000
+"14/15","Health","Internal",748640000
+"14/15","Health","External",532500000
+"15/16","Health","Internal",782460000
+"15/16","Health","External",451940000
+"13/14","Water and Environment","Internal",232170000
+"13/14","Water and Environment","External",151690000
+"14/15","Water and Environment","Internal",246660000
+"14/15","Water and Environment","External",155800000
+"15/16","Water and Environment","Internal",287610000
+"15/16","Water and Environment","External",233280000
+"13/14","Justice/Law and Order","Internal",622850000
+"13/14","Justice/Law and Order","External",2870000
+"14/15","Justice/Law and Order","Internal",806770000
+"14/15","Justice/Law and Order","External",0830000
+"15/16","Justice/Law and Order","Internal",906620000
+"15/16","Justice/Law and Order","External",0000000
+"13/14","Accountability","Internal",656370000
+"13/14","Accountability","External",42430000
+"14/15","Accountability","Internal",1156590000
+"14/15","Accountability","External",31870000
+"15/16","Accountability","Internal",1034470000
+"15/16","Accountability","External",72360000
+"13/14","Energy and Mineral Development","Internal",1300540000
+"13/14","Energy and Mineral Development","External",375180000
+"14/15","Energy and Mineral Development","Internal",1316390000
+"14/15","Energy and Mineral Development","External",130000
+"15/16","Energy and Mineral Development","Internal",320990000
+"15/16","Energy and Mineral Development","External",2461730000
+"14/15","Tourism, Trade and Industry","Internal",51860000
+"14/15","Tourism, Trade and Industry","External",2950000
+"14/15","Tourism, Trade and Industry","Internal",60730000
+"14/15","Tourism, Trade and Industry","External",3150000
+"15/16","Tourism, Trade and Industry","Internal",78530000
+"15/16","Tourism, Trade and Industry","External",0780000
+"13/14","Lands, Housing and Urban Development","Internal",27310000
+"13/14","Lands, Housing and Urban Development","External",2690000
+"14/15","Lands, Housing and Urban Development","Internal",30430000
+"14/15","Lands, Housing and Urban Development","External",66190000
+"15/16","Lands, Housing and Urban Development","Internal",32470000
+"15/16","Lands, Housing and Urban Development","External",93470000
+"13/14","Social Development","Internal",44420000
+"13/14","Social Development","External",0000000
+"14/15","Social Development","Internal",71300000
+"14/15","Social Development","External",0000000
+"15/16","Social Development","Internal",79970000
+"15/16","Social Development","External",0000000
+"13/14","Information and Communication Technology","Internal",15430000
+"13/14","Information and Communication Technology","External",0000000
+"14/15","Information and Communication Technology","Internal",17010000
+"14/15","Information and Communication Technology","External",0000000
+"15/16","Information and Communication Technology","Internal",20870000
+"15/16","Information and Communication Technology","External",0000000
+"13/14","Public Sector Management","Internal",832360000
+"13/14","Public Sector Management","External",270490000
+"14/15","Public Sector Management","Internal",938570000
+"14/15","Public Sector Management","External",252450000
+"15/16","Public Sector Management","Internal",677250000
+"15/16","Public Sector Management","External",98870000
+"13/14","Public Administration","Internal",397090000
+"13/14","Public Administration","External",1250000
+"14/15","Public Administration","Internal",554840000
+"14/15","Public Administration","External",0000000
+"15/16","Public Administration","Internal",716350000
+"15/16","Public Administration","External",0000000
+"13/14","Legislature","Internal",237590000
+"13/14","Legislature","External",0000000
+"14/15","Legislature","Internal",331920000
+"14/15","Legislature","External",0000000
+"15/16","Legislature","Internal",301680000
+"15/16","Legislature","External",0000000
