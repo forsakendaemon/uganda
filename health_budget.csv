@@ -66,18 +66,18 @@
 "External","14/15","Health","Clinical and public health","Uganda Sanitation Fund Project",3130000
 "Internal","15/16","Health","Clinical and public health","Uganda Sanitation Fund Project",150000
 "External","15/16","Health","Clinical and public health","Uganda Sanitation Fund Project",3130000
-"Internal","13/14","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",8841567
-"External","13/14","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",142575336
-"Internal","14/15","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",5014002
-"External","14/15","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",255800000
-"Internal","15/16","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",5000000
-"External","15/16","Health","Pharmaceutical and other Supplies","Global Fund for AIDS, TB and Malaria",168815973
-"Internal","13/14","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",3200000
-"External","13/14","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",60710000
-"Internal","14/15","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",6500000
-"External","14/15","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",48290000
-"Internal","15/16","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",10030000
-"External","15/16","Health","Pharmaceutical and other Supplies","Gavi Vaccines and HSSP",50300103
+"Internal","13/14","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",8841567
+"External","13/14","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",142575336
+"Internal","14/15","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",5014002
+"External","14/15","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",255800000
+"Internal","15/16","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",5000000
+"External","15/16","Health","Pharmaceutical and Medical Supplies","Global Fund for AIDS, TB and Malaria",168815973
+"Internal","13/14","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",3200000
+"External","13/14","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",60710000
+"Internal","14/15","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",6500000
+"External","14/15","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",48290000
+"Internal","15/16","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",10030000
+"External","15/16","Health","Pharmaceutical and Medical Supplies","Gavi Vaccines and HSSP",50300103
 "Internal","13/14","Health","Policy, Planning and Support Services","Headquarters",4966671
 "Internal","14/15","Health","Policy, Planning and Support Services","Headquarters",7609719
 "Internal","15/16","Health","Policy, Planning and Support Services","Headquarters",9704719
@@ -92,11 +92,18 @@
 "External","14/15","Health","Policy, Planning and Support Services","Institutional Capacity Building",9615897
 "External","15/16","Health","Policy, Planning and Support Services","Institutional Capacity Building",9615897
 #107
+"Internal","13/14","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","Statutory",5320159
+"Internal","13/14","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","UAC Secretariat",227809
 "Internal","14/15","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","Statutory",6820159
 "Internal","14/15","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","UAC Secretariat",227809
 "Internal","15/16","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","Statutory",7620159
 "Internal","15/16","Uganda AIDS Commission","Coordination of multi-sector response to HIV/AIDS","UAC Secretariat",127809
 #114
+"Internal","13/14","Uganda Cancer Institute","Cancer Services","Management",704490
+"Internal","13/14","Uganda Cancer Institute","Cancer Services","Medical Services",2577718
+"Internal","13/14","Uganda Cancer Institute","Cancer Services","Internal Audit",0
+"Internal","13/14","Uganda Cancer Institute","Cancer Services","Radiotherapy",0
+"Internal","13/14","Uganda Cancer Institute","Cancer Services","Uganda Cancer Institute Project",4200000
 "Internal","14/15","Uganda Cancer Institute","Cancer Services","Management",886493
 "Internal","14/15","Uganda Cancer Institute","Cancer Services","Medical Services",3003733
 "Internal","14/15","Uganda Cancer Institute","Cancer Services","Internal Audit",25218
@@ -111,6 +118,10 @@
 "Internal","15/16","Uganda Cancer Institute","Cancer Services","ADB Support to UCI",315055
 "External","15/16","Uganda Cancer Institute","Cancer Services","ADB Support to UCI",3239458
 #115
+"Internal","13/14","Uganda Heart Institute","Heart Services","Management",1768351
+"Internal","13/14","Uganda Heart Institute","Heart Services","Medical Services",3647936
+"Internal","13/14","Uganda Heart Institute","Heart Services","Internal Audit",14760
+"Internal","13/14","Uganda Heart Institute","Heart Services","Uganda Heart Institute Project",2530000
 "Internal","14/15","Uganda Heart Institute","Heart Services","Management",2026706
 "Internal","14/15","Uganda Heart Institute","Heart Services","Medical Services",4539534
 "Internal","14/15","Uganda Heart Institute","Heart Services","Internal Audit",26691
@@ -120,9 +131,13 @@
 "Internal","15/16","Uganda Heart Institute","Heart Services","Internal Audit",14760
 "Internal","15/16","Uganda Heart Institute","Heart Services","Uganda Heart Institute Project",4562500
 #116
-"Internal","14/15","National Medical Stores","Pharmaceutical and Medical Supplies","Pharmaceuticals and Other Health Supplies",218614467
-"Internal","15/16","National Medical Stores","Pharmaceutical and Medical Supplies","Pharmaceuticals and Other Health Supplies",218614467
+"Internal","13/14","National Medical Stores","Pharmaceutical and Medical Supplies","Pharmaceutical and other Supplies",219374587
+"Internal","14/15","National Medical Stores","Pharmaceutical and Medical Supplies","Pharmaceutical and other Supplies",218614467
+"Internal","15/16","National Medical Stores","Pharmaceutical and Medical Supplies","Pharmaceutical and other Supplies",218614467
 #122
+"Internal","13/14","Kampala Capital City Authority","Community Health Management","Public Health",7624126
+"Internal","13/14","Kampala Capital City Authority","Community Health Management","LGMSD (former LGDP)",1729892
+"Internal","13/14","Kampala Capital City Authority","Community Health Management","PHC Development",131000
 "Internal","14/15","Kampala Capital City Authority","Community Health Management","Public Health",5077811
 "Internal","14/15","Kampala Capital City Authority","Community Health Management","LGMSD (former LGDP)",3309582
 "Internal","14/15","Kampala Capital City Authority","Community Health Management","PHC Development",131000
@@ -130,6 +145,10 @@
 "Internal","15/16","Kampala Capital City Authority","Community Health Management","LGMSD (former LGDP)",3540862
 "Internal","15/16","Kampala Capital City Authority","Community Health Management","PHC Development",131000
 #134
+"Internal","13/14","Health Service Commission","Human Resource Management for Health","Finance and Administration",2137946
+"Internal","13/14","Health Service Commission","Human Resource Management for Health","Human Resource Management",1058656
+"Internal","13/14","Health Service Commission","Human Resource Management for Health","Internal Audit",40000
+"Internal","13/14","Health Service Commission","Human Resource Management for Health","Health Service Commision",646799
 "Internal","14/15","Health Service Commission","Human Resource Management for Health","Finance and Administration",2311820
 "Internal","14/15","Health Service Commission","Human Resource Management for Health","Human Resource Management",1371618
 "Internal","14/15","Health Service Commission","Human Resource Management for Health","Internal Audit",40000
@@ -139,6 +158,10 @@
 "Internal","15/16","Health Service Commission","Human Resource Management for Health","Internal Audit",20515
 "Internal","15/16","Health Service Commission","Human Resource Management for Health","Health Service Commision",446799
 #151
+"Internal","13/14","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Administration",3704084
+"Internal","13/14","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Regional Blood Banks",0
+"Internal","13/14","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Internal Audit",0
+"Internal","13/14","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Uganda Blood Transfusion Service",400000
 "Internal","14/15","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Administration",2571065
 "Internal","14/15","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Regional Blood Banks",3432786
 "Internal","14/15","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Internal Audit",40232
@@ -148,6 +171,11 @@
 "Internal","15/16","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Internal Audit",40232
 "Internal","15/16","Uganda Blood Transfusion Service (UBTS)","Safe Blood Provision","Uganda Blood Transfusion Service",370000
 #161
+"Internal","13/14","Mulago Hospital Complex","National Referral Hospital Services","Management",8665453
+"Internal","13/14","Mulago Hospital Complex","National Referral Hospital Services","Medical Services",30039687
+"Internal","13/14","Mulago Hospital Complex","National Referral Hospital Services","Common Services",1119493
+"Internal","13/14","Mulago Hospital Complex","National Referral Hospital Services","Internal Audit Department",140412
+"Internal","13/14","Mulago Hospital Complex","National Referral Hospital Services","Mulago Hospital Complex",5220000
 "Internal","14/15","Mulago Hospital Complex","National Referral Hospital Services","Management",16090388
 "Internal","14/15","Mulago Hospital Complex","National Referral Hospital Services","Medical Services",29216242
 "Internal","14/15","Mulago Hospital Complex","National Referral Hospital Services","Internal Audit Department",140412
@@ -157,6 +185,9 @@
 "Internal","15/16","Mulago Hospital Complex","National Referral Hospital Services","Internal Audit Department",140412
 "Internal","15/16","Mulago Hospital Complex","National Referral Hospital Services","Mulago Hospital Complex",5520000
 #162
+"Internal","13/14","Butabika Hospital","Provision of Specialised Mental Health Services","Management",7684297
+"Internal","13/14","Butabika Hospital","Provision of Specialised Mental Health Services","Internal Audit Section",15473
+"Internal","13/14","Butabika Hospital","Provision of Specialised Mental Health Services","Butabika and health cente remodelling/construction",1888141
 "Internal","14/15","Butabika Hospital","Provision of Specialised Mental Health Services","Management",7788369
 "Internal","14/15","Butabika Hospital","Provision of Specialised Mental Health Services","Internal Audit Section",15473
 "Internal","14/15","Butabika Hospital","Provision of Specialised Mental Health Services","Butabika and health cente remodelling/construction",1981266
@@ -164,6 +195,10 @@
 "Internal","15/16","Butabika Hospital","Provision of Specialised Mental Health Services","Internal Audit Section",15473
 "Internal","15/16","Butabika Hospital","Provision of Specialised Mental Health Services","Butabika and health cente remodelling/construction",1863981
 #163
+"Internal","13/14","Arua Referral Hospital","Regional Referral Hospital Services","Services",4099757
+"Internal","13/14","Arua Referral Hospital","Regional Referral Hospital Services","Internal Audit",17000
+"Internal","13/14","Arua Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",70000
+"Internal","13/14","Arua Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",821000
 "Internal","14/15","Arua Referral Hospital","Regional Referral Hospital Services","Services",4166711
 "Internal","14/15","Arua Referral Hospital","Regional Referral Hospital Services","Internal Audit",18000
 "Internal","14/15","Arua Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",232290
@@ -173,6 +208,10 @@
 "Internal","15/16","Arua Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",232290
 "Internal","15/16","Arua Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",758000
 #164
+"Internal","13/14","Fort Portal Referral Hospital","Regional Referral Hospital Services","Services",4511249
+"Internal","13/14","Fort Portal Referral Hospital","Regional Referral Hospital Services","Internal Audit",11160
+"Internal","13/14","Fort Portal Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",155431
+"Internal","13/14","Fort Portal Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",836360
 "Internal","14/15","Fort Portal Referral Hospital","Regional Referral Hospital Services","Services",4665269
 "Internal","14/15","Fort Portal Referral Hospital","Regional Referral Hospital Services","Internal Audit",11160
 "Internal","14/15","Fort Portal Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",261349
@@ -182,15 +221,951 @@
 "Internal","15/16","Fort Portal Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",261349
 "Internal","15/16","Fort Portal Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
 #165
+"Internal","13/14","Gulu Referral Hospital","Regional Referral Hospital Services","Services",3864745
+"Internal","13/14","Gulu Referral Hospital","Regional Referral Hospital Services","Internal Audit",17600
+"Internal","13/14","Gulu Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",95094
+"Internal","13/14","Gulu Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1201000
+"Internal","14/15","Gulu Referral Hospital","Regional Referral Hospital Services","Services",4016452
+"Internal","14/15","Gulu Referral Hospital","Regional Referral Hospital Services","Internal Audit",18000
+"Internal","14/15","Gulu Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",167779
+"Internal","14/15","Gulu Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",999850
+"Internal","15/16","Gulu Referral Hospital","Regional Referral Hospital Services","Services",4439866
+"Internal","15/16","Gulu Referral Hospital","Regional Referral Hospital Services","Internal Audit",18000
+"Internal","15/16","Gulu Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",167779
+"Internal","15/16","Gulu Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1470000
 #166
+"Internal","14/15","Hoima Referral Hospital","Regional Referral Hospital Services","Services",3330429
+"Internal","14/15","Hoima Referral Hospital","Regional Referral Hospital Services","Internal Audit",11000
+"Internal","14/15","Hoima Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",112729
+"Internal","14/15","Hoima Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1199820
+"Internal","15/16","Hoima Referral Hospital","Regional Referral Hospital Services","Services",3378831
+"Internal","15/16","Hoima Referral Hospital","Regional Referral Hospital Services","Internal Audit",15000
+"Internal","15/16","Hoima Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",112729
+"Internal","15/16","Hoima Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1400000
 #167
+"Internal","13/14","Jinja Referral Hospital","Regional Referral Hospital Services","Services",4633124
+"Internal","13/14","Jinja Referral Hospital","Regional Referral Hospital Services","Internal Audit",13000
+"Internal","13/14","Jinja Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1251000
+"Internal","14/15","Jinja Referral Hospital","Regional Referral Hospital Services","Services",5289587
+"Internal","14/15","Jinja Referral Hospital","Regional Referral Hospital Services","Internal Audit",18000
+"Internal","14/15","Jinja Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",999850
+"Internal","15/16","Jinja Referral Hospital","Regional Referral Hospital Services","Services",5337690
+"Internal","15/16","Jinja Referral Hospital","Regional Referral Hospital Services","Internal Audit",18000
+"Internal","15/16","Jinja Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
 #168
+"Internal","13/14","Kabale Referral Hospital","Regional Referral Hospital Services","Services",3211927
+"Internal","13/14","Kabale Referral Hospital","Regional Referral Hospital Services","Internal Audit",5000
+"Internal","13/14","Kabale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",180000
+"Internal","13/14","Kabale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1150000
+"Internal","14/15","Kabale Referral Hospital","Regional Referral Hospital Services","Services",3448924
+"Internal","14/15","Kabale Referral Hospital","Regional Referral Hospital Services","Internal Audit",5000
+"Internal","14/15","Kabale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",426373
+"Internal","14/15","Kabale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",699895
+"Internal","15/16","Kabale Referral Hospital","Regional Referral Hospital Services","Services",3446622
+"Internal","15/16","Kabale Referral Hospital","Regional Referral Hospital Services","Internal Audit",5000
+"Internal","15/16","Kabale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",426373
+"Internal","15/16","Kabale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
 #169
+"Internal","13/14","Masaka Referral Hospital","Regional Referral Hospital Services","Services",3822070
+"Internal","13/14","Masaka Referral Hospital","Regional Referral Hospital Services","Internal Audit",14667
+"Internal","13/14","Masaka Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",748436
+"Internal","14/15","Masaka Referral Hospital","Regional Referral Hospital Services","Services",3998701
+"Internal","14/15","Masaka Referral Hospital","Regional Referral Hospital Services","Internal Audit",14667
+"Internal","14/15","Masaka Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1122015
+"Internal","15/16","Masaka Referral Hospital","Regional Referral Hospital Services","Services",4122563
+"Internal","15/16","Masaka Referral Hospital","Regional Referral Hospital Services","Internal Audit",14690
+"Internal","15/16","Masaka Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1222180
 #170
+"Internal","13/14","Mbale Referral Hospital","Regional Referral Hospital Services","Services",5248062
+"Internal","13/14","Mbale Referral Hospital","Regional Referral Hospital Services","Internal Audit",15300
+"Internal","13/14","Mbale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",240000
+"Internal","13/14","Mbale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",587700
+"Internal","14/15","Mbale Referral Hospital","Regional Referral Hospital Services","Services",5529663
+"Internal","14/15","Mbale Referral Hospital","Regional Referral Hospital Services","Internal Audit",22000
+"Internal","14/15","Mbale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",361301
+"Internal","14/15","Mbale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",799880
+"Internal","15/16","Mbale Referral Hospital","Regional Referral Hospital Services","Services",5740046
+"Internal","15/16","Mbale Referral Hospital","Regional Referral Hospital Services","Internal Audit",22000
+"Internal","15/16","Mbale Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",361301
+"Internal","15/16","Mbale Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
 #171
+"Internal","13/14","Soroti Referral Hospital","Regional Referral Hospital Services","Services",3517373
+"Internal","13/14","Soroti Referral Hospital","Regional Referral Hospital Services","Internal Audit",12000
+"Internal","13/14","Soroti Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",85000
+"Internal","13/14","Soroti Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1620000
+"Internal","14/15","Soroti Referral Hospital","Regional Referral Hospital Services","Services",3686067
+"Internal","14/15","Soroti Referral Hospital","Regional Referral Hospital Services","Internal Audit",12000
+"Internal","14/15","Soroti Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",141000
+"Internal","14/15","Soroti Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",799880
+"Internal","15/16","Soroti Referral Hospital","Regional Referral Hospital Services","Services",3816977
+"Internal","15/16","Soroti Referral Hospital","Regional Referral Hospital Services","Internal Audit",12000
+"Internal","15/16","Soroti Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",141000
+"Internal","15/16","Soroti Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",900000
 #172
+"Internal","13/14","Lira Referral Hospital","Regional Referral Hospital Services","Services",3409929
+"Internal","13/14","Lira Referral Hospital","Regional Referral Hospital Services","Internal Audit",15000
+"Internal","13/14","Lira Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",60000
+"Internal","13/14","Lira Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
+"Internal","14/15","Lira Referral Hospital","Regional Referral Hospital Services","Services",3647441
+"Internal","14/15","Lira Referral Hospital","Regional Referral Hospital Services","Internal Audit",15000
+"Internal","14/15","Lira Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",128491
+"Internal","14/15","Lira Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",999850
+"Internal","15/16","Lira Referral Hospital","Regional Referral Hospital Services","Services",3600681
+"Internal","15/16","Lira Referral Hospital","Regional Referral Hospital Services","Internal Audit",15000
+"Internal","15/16","Lira Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",128491
+"Internal","15/16","Lira Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",600000
 #173
+"Internal","13/14","Mbarara Referral Hospital","Regional Referral Hospital Services","Services",4732841
+"Internal","13/14","Mbarara Referral Hospital","Regional Referral Hospital Services","Internal Audit",24300
+"Internal","13/14","Mbarara Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",950000
+"Internal","14/15","Mbarara Referral Hospital","Regional Referral Hospital Services","Services",5100022
+"Internal","14/15","Mbarara Referral Hospital","Regional Referral Hospital Services","Internal Audit",24300
+"Internal","14/15","Mbarara Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1099850
+"Internal","15/16","Mbarara Referral Hospital","Regional Referral Hospital Services","Services",5426125
+"Internal","15/16","Mbarara Referral Hospital","Regional Referral Hospital Services","Internal Audit",24300
+"Internal","15/16","Mbarara Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1328706
 #174
+"Internal","13/14","Mubende Referral Hospital","Regional Referral Hospital Services","Services",2529459
+"Internal","13/14","Mubende Referral Hospital","Regional Referral Hospital Services","Internal Audit",6000
+"Internal","13/14","Mubende Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",0
+"Internal","13/14","Mubende Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1192000
+"Internal","14/15","Mubende Referral Hospital","Regional Referral Hospital Services","Services",2836109
+"Internal","14/15","Mubende Referral Hospital","Regional Referral Hospital Services","Internal Audit",6000
+"Internal","14/15","Mubende Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",94379
+"Internal","14/15","Mubende Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",2936488
+"Internal","15/16","Mubende Referral Hospital","Regional Referral Hospital Services","Services",2852109
+"Internal","15/16","Mubende Referral Hospital","Regional Referral Hospital Services","Internal Audit",10000
+"Internal","15/16","Mubende Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",94379
+"Internal","15/16","Mubende Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1800000
 #175
+"Internal","13/14","Moroto Referral Hospital","Regional Referral Hospital Services","Services",2035910
+"Internal","13/14","Moroto Referral Hospital","Regional Referral Hospital Services","Internal Audit",4500
+"Internal","13/14","Moroto Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",0
+"Internal","13/14","Moroto Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1413000
+"Internal","14/15","Moroto Referral Hospital","Regional Referral Hospital Services","Services",2418418
+"Internal","14/15","Moroto Referral Hospital","Regional Referral Hospital Services","Internal Audit",7000
+"Internal","14/15","Moroto Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",124700
+"Internal","14/15","Moroto Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",99850
+"Internal","15/16","Moroto Referral Hospital","Regional Referral Hospital Services","Services",2418418
+"Internal","15/16","Moroto Referral Hospital","Regional Referral Hospital Services","Internal Audit",7000
+"Internal","15/16","Moroto Referral Hospital","Regional Referral Hospital Services","Regional Maintenance",124700
+"Internal","15/16","Moroto Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",664000
 #176
+"Internal","13/14","Naguru Referral Hospital","Regional Referral Hospital Services","Services",5846997
+"Internal","13/14","Naguru Referral Hospital","Regional Referral Hospital Services","Internal Audit",21195
+"Internal","13/14","Naguru Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",3850684
+"Internal","14/15","Naguru Referral Hospital","Regional Referral Hospital Services","Services",4454290
+"Internal","14/15","Naguru Referral Hospital","Regional Referral Hospital Services","Internal Audit",21195
+"Internal","14/15","Naguru Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1019847
+"Internal","15/16","Naguru Referral Hospital","Regional Referral Hospital Services","Services",4377216
+"Internal","15/16","Naguru Referral Hospital","Regional Referral Hospital Services","Internal Audit",29755
+"Internal","15/16","Naguru Referral Hospital","Regional Referral Hospital Services","Rehabilitation Referral Hospital",1394000
 #501-850
+"Internal","15/16","Adjumani District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Apac District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Arua District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bugiri District","Primary Healthcare","Conditional Grant to District Hospitals",151840
+"Internal","15/16","Bundibugyo District","Primary Healthcare","Conditional Grant to District Hospitals",142628
+"Internal","15/16","Bushenyi District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Busia District","Primary Healthcare","Conditional Grant to District Hospitals",109335
+"Internal","15/16","Gulu District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Hoima District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Iganga District","Primary Healthcare","Conditional Grant to District Hospitals",167292
+"Internal","15/16","Jinja District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kabale District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kabarole District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kaberamaido District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kalangala District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kamuli District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Kamwenge District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kanungu District","Primary Healthcare","Conditional Grant to District Hospitals",137577
+"Internal","15/16","Kapchorwa District","Primary Healthcare","Conditional Grant to District Hospitals",137577
+"Internal","15/16","Kasese District","Primary Healthcare","Conditional Grant to District Hospitals",137577
+"Internal","15/16","Katakwi District","Primary Healthcare","Conditional Grant to District Hospitals",109250
+"Internal","15/16","Kayunga District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Kibale District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Kiboga District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Kisoro District","Primary Healthcare","Conditional Grant to District Hospitals",137331
+"Internal","15/16","Kitgum District","Primary Healthcare","Conditional Grant to District Hospitals",256929
+"Internal","15/16","Kotido District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kumi District","Primary Healthcare","Conditional Grant to District Hospitals",153623
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","Conditional Grant to District Hospitals",109250
+"Internal","15/16","Lira District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Luwero District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Masaka District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Masindi District","Primary Healthcare","Conditional Grant to District Hospitals",147228
+"Internal","15/16","Mayuge District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mbale District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mbarara District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Moroto District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Moyo District","Primary Healthcare","Conditional Grant to District Hospitals",131171
+"Internal","15/16","Mpigi District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mubende District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mukono District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Nakasongola District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Nebbi District","Primary Healthcare","Conditional Grant to District Hospitals",131577
+"Internal","15/16","Ntungamo District","Primary Healthcare","Conditional Grant to District Hospitals",161349
+"Internal","15/16","Pader District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Pallisa District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Rakai District","Primary Healthcare","Conditional Grant to District Hospitals",205328
+"Internal","15/16","Rukungiri District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Sembabule District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Sironko District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Soroti District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Tororo District","Primary Healthcare","Conditional Grant to District Hospitals",289246
+"Internal","15/16","Wakiso District","Primary Healthcare","Conditional Grant to District Hospitals",208945
+"Internal","15/16","Yumbe District","Primary Healthcare","Conditional Grant to District Hospitals",131577
+"Internal","15/16","Butaleja District","Primary Healthcare","Conditional Grant to District Hospitals",153623
+"Internal","15/16","Ibanda District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kaabong District","Primary Healthcare","Conditional Grant to District Hospitals",131577
+"Internal","15/16","Isingiro District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kaliro District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kiruhura District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional Grant to District Hospitals",62000
+"Internal","15/16","Amolatar District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Amuria District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Manafwa District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bukwo District","Primary Healthcare","Conditional Grant to District Hospitals",109500
+"Internal","15/16","Mityana District","Primary Healthcare","Conditional Grant to District Hospitals",147434
+"Internal","15/16","Nakaseke District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Amuru District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Budaka District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Oyam District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Abim District","Primary Healthcare","Conditional Grant to District Hospitals",137577
+"Internal","15/16","Namutumba District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Dokolo District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Grant to District Hospitals",42010
+"Internal","15/16","Maracha District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bududa District","Primary Healthcare","Conditional Grant to District Hospitals",132634
+"Internal","15/16","Lyantonde District","Primary Healthcare","Conditional Grant to District Hospitals",129256
+"Internal","15/16","Amudat District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Buikwe District","Primary Healthcare","Conditional Grant to District Hospitals",152622
+"Internal","15/16","Buyende District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kyegegwa District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Lamwo District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Otuke District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Zombo District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Alebtong District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bulambuli District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Buvuma District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Gomba District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kiryandongo District","Primary Healthcare","Conditional Grant to District Hospitals",140698
+"Internal","15/16","Luuka District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Namayingo District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Ntoroko District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Serere District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kalungu District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Lwengo District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mitooma District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Rubirizi District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Ngora District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Napak District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kibuku District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Nwoya District","Primary Healthcare","Conditional Grant to District Hospitals",131171
+"Internal","15/16","Kole District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Butambala District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Sheema District","Primary Healthcare","Conditional Grant to District Hospitals",131634
+"Internal","15/16","Buhweju District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Agago District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kween District","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Health Conditional Grant to District Hospitals",0
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Conditional Grant to District Hospitals",0
+"Internal","15/16","Adjumani District","Primary Healthcare","Conditional Grant to PHC Salaries",3290862
+"Internal","15/16","Apac District","Primary Healthcare","Conditional Grant to PHC Salaries",3065343
+"Internal","15/16","Arua District","Primary Healthcare","Conditional Grant to PHC Salaries",4141569
+"Internal","15/16","Bugiri District","Primary Healthcare","Conditional Grant to PHC Salaries",2526622
+"Internal","15/16","Bundibugyo District","Primary Healthcare","Conditional Grant to PHC Salaries",3099485
+"Internal","15/16","Bushenyi District","Primary Healthcare","Conditional Grant to PHC Salaries",1166274
+"Internal","15/16","Busia District","Primary Healthcare","Conditional Grant to PHC Salaries",1468053
+"Internal","15/16","Gulu District","Primary Healthcare","Conditional Grant to PHC Salaries",2686836
+"Internal","15/16","Hoima District","Primary Healthcare","Conditional Grant to PHC Salaries",2347955
+"Internal","15/16","Iganga District","Primary Healthcare","Conditional Grant to PHC Salaries",4535983
+"Internal","15/16","Jinja District","Primary Healthcare","Conditional Grant to PHC Salaries",4933370
+"Internal","15/16","Kabale District","Primary Healthcare","Conditional Grant to PHC Salaries",5222884
+"Internal","15/16","Kabarole District","Primary Healthcare","Conditional Grant to PHC Salaries",3718981
+"Internal","15/16","Kaberamaido District","Primary Healthcare","Conditional Grant to PHC Salaries",1504030
+"Internal","15/16","Kalangala District","Primary Healthcare","Conditional Grant to PHC Salaries",1519557
+"Internal","15/16","Kamuli District","Primary Healthcare","Conditional Grant to PHC Salaries",3369541
+"Internal","15/16","Kamwenge District","Primary Healthcare","Conditional Grant to PHC Salaries",1894002
+"Internal","15/16","Kanungu District","Primary Healthcare","Conditional Grant to PHC Salaries",3134341
+"Internal","15/16","Kapchorwa District","Primary Healthcare","Conditional Grant to PHC Salaries",2100707
+"Internal","15/16","Kasese District","Primary Healthcare","Conditional Grant to PHC Salaries",6099957
+"Internal","15/16","Katakwi District","Primary Healthcare","Conditional Grant to PHC Salaries",2501709
+"Internal","15/16","Kayunga District","Primary Healthcare","Conditional Grant to PHC Salaries",2662103
+"Internal","15/16","Kibale District","Primary Healthcare","Conditional Grant to PHC Salaries",2962304
+"Internal","15/16","Kiboga District","Primary Healthcare","Conditional Grant to PHC Salaries",1841511
+"Internal","15/16","Kisoro District","Primary Healthcare","Conditional Grant to PHC Salaries",3515436
+"Internal","15/16","Kitgum District","Primary Healthcare","Conditional Grant to PHC Salaries",3463958
+"Internal","15/16","Kotido District","Primary Healthcare","Conditional Grant to PHC Salaries",1145897
+"Internal","15/16","Kumi District","Primary Healthcare","Conditional Grant to PHC Salaries",1972544
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","Conditional Grant to PHC Salaries",2248010
+"Internal","15/16","Lira District","Primary Healthcare","Conditional Grant to PHC Salaries",2070559
+"Internal","15/16","Luwero District","Primary Healthcare","Conditional Grant to PHC Salaries",4061768
+"Internal","15/16","Masaka District","Primary Healthcare","Conditional Grant to PHC Salaries",1648810
+"Internal","15/16","Masindi District","Primary Healthcare","Conditional Grant to PHC Salaries",2666079
+"Internal","15/16","Mayuge District","Primary Healthcare","Conditional Grant to PHC Salaries",1780516
+"Internal","15/16","Mbale District","Primary Healthcare","Conditional Grant to PHC Salaries",3795761
+"Internal","15/16","Mbarara District","Primary Healthcare","Conditional Grant to PHC Salaries",2197063
+"Internal","15/16","Moroto District","Primary Healthcare","Conditional Grant to PHC Salaries",1059192
+"Internal","15/16","Moyo District","Primary Healthcare","Conditional Grant to PHC Salaries",2888652
+"Internal","15/16","Mpigi District","Primary Healthcare","Conditional Grant to PHC Salaries",1865801
+"Internal","15/16","Mubende District","Primary Healthcare","Conditional Grant to PHC Salaries",2634830
+"Internal","15/16","Mukono District","Primary Healthcare","Conditional Grant to PHC Salaries",2456304
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","Conditional Grant to PHC Salaries",1141493
+"Internal","15/16","Nakasongola District","Primary Healthcare","Conditional Grant to PHC Salaries",1915281
+"Internal","15/16","Nebbi District","Primary Healthcare","Conditional Grant to PHC Salaries",2647792
+"Internal","15/16","Ntungamo District","Primary Healthcare","Conditional Grant to PHC Salaries",3445179
+"Internal","15/16","Pader District","Primary Healthcare","Conditional Grant to PHC Salaries",969798
+"Internal","15/16","Pallisa District","Primary Healthcare","Conditional Grant to PHC Salaries",3623219
+"Internal","15/16","Rakai District","Primary Healthcare","Conditional Grant to PHC Salaries",6469768
+"Internal","15/16","Rukungiri District","Primary Healthcare","Conditional Grant to PHC Salaries",2241498
+"Internal","15/16","Sembabule District","Primary Healthcare","Conditional Grant to PHC Salaries",1182182
+"Internal","15/16","Sironko District","Primary Healthcare","Conditional Grant to PHC Salaries",2250255
+"Internal","15/16","Soroti District","Primary Healthcare","Conditional Grant to PHC Salaries",1196984
+"Internal","15/16","Tororo District","Primary Healthcare","Conditional Grant to PHC Salaries",3914035
+"Internal","15/16","Wakiso District","Primary Healthcare","Conditional Grant to PHC Salaries",4707822
+"Internal","15/16","Yumbe District","Primary Healthcare","Conditional Grant to PHC Salaries",2845429
+"Internal","15/16","Butaleja District","Primary Healthcare","Conditional Grant to PHC Salaries",1799575
+"Internal","15/16","Ibanda District","Primary Healthcare","Conditional Grant to PHC Salaries",1660876
+"Internal","15/16","Kaabong District","Primary Healthcare","Conditional Grant to PHC Salaries",1272140
+"Internal","15/16","Isingiro District","Primary Healthcare","Conditional Grant to PHC Salaries",2766886
+"Internal","15/16","Kaliro District","Primary Healthcare","Conditional Grant to PHC Salaries",1423237
+"Internal","15/16","Kiruhura District","Primary Healthcare","Conditional Grant to PHC Salaries",2518541
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional Grant to PHC Salaries",1017677
+"Internal","15/16","Amolatar District","Primary Healthcare","Conditional Grant to PHC Salaries",1044663
+"Internal","15/16","Amuria District","Primary Healthcare","Conditional Grant to PHC Salaries",1881960
+"Internal","15/16","Manafwa District","Primary Healthcare","Conditional Grant to PHC Salaries",2493106
+"Internal","15/16","Bukwo District","Primary Healthcare","Conditional Grant to PHC Salaries",1593165
+"Internal","15/16","Mityana District","Primary Healthcare","Conditional Grant to PHC Salaries",3953409
+"Internal","15/16","Nakaseke District","Primary Healthcare","Conditional Grant to PHC Salaries",2940766
+"Internal","15/16","Amuru District","Primary Healthcare","Conditional Grant to PHC Salaries",1054024
+"Internal","15/16","Budaka District","Primary Healthcare","Conditional Grant to PHC Salaries",1386509
+"Internal","15/16","Oyam District","Primary Healthcare","Conditional Grant to PHC Salaries",1594375
+"Internal","15/16","Abim District","Primary Healthcare","Conditional Grant to PHC Salaries",1384620
+"Internal","15/16","Namutumba District","Primary Healthcare","Conditional Grant to PHC Salaries",1251730
+"Internal","15/16","Dokolo District","Primary Healthcare","Conditional Grant to PHC Salaries",1237688
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Grant to PHC Salaries",859338
+"Internal","15/16","Maracha District","Primary Healthcare","Conditional Grant to PHC Salaries",1705895
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","Conditional Grant to PHC Salaries",1003785
+"Internal","15/16","Bududa District","Primary Healthcare","Conditional Grant to PHC Salaries",1932394
+"Internal","15/16","Lyantonde District","Primary Healthcare","Conditional Grant to PHC Salaries",1568663
+"Internal","15/16","Amudat District","Primary Healthcare","Conditional Grant to PHC Salaries",444880
+"Internal","15/16","Buikwe District","Primary Healthcare","Conditional Grant to PHC Salaries",2716053
+"Internal","15/16","Buyende District","Primary Healthcare","Conditional Grant to PHC Salaries",1043921
+"Internal","15/16","Kyegegwa District","Primary Healthcare","Conditional Grant to PHC Salaries",1403442
+"Internal","15/16","Lamwo District","Primary Healthcare","Conditional Grant to PHC Salaries",1455030
+"Internal","15/16","Otuke District","Primary Healthcare","Conditional Grant to PHC Salaries",937216
+"Internal","15/16","Zombo District","Primary Healthcare","Conditional Grant to PHC Salaries",1354215
+"Internal","15/16","Alebtong District","Primary Healthcare","Conditional Grant to PHC Salaries",881049
+"Internal","15/16","Bulambuli District","Primary Healthcare","Conditional Grant to PHC Salaries",1584308
+"Internal","15/16","Buvuma District","Primary Healthcare","Conditional Grant to PHC Salaries",686224
+"Internal","15/16","Gomba District","Primary Healthcare","Conditional Grant to PHC Salaries",921573
+"Internal","15/16","Kiryandongo District","Primary Healthcare","Conditional Grant to PHC Salaries",1625146
+"Internal","15/16","Luuka District","Primary Healthcare","Conditional Grant to PHC Salaries",1251043
+"Internal","15/16","Namayingo District","Primary Healthcare","Conditional Grant to PHC Salaries",1213638
+"Internal","15/16","Ntoroko District","Primary Healthcare","Conditional Grant to PHC Salaries",574551
+"Internal","15/16","Serere District","Primary Healthcare","Conditional Grant to PHC Salaries",1461302
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","Conditional Grant to PHC Salaries",1248387
+"Internal","15/16","Kalungu District","Primary Healthcare","Conditional Grant to PHC Salaries",1339907
+"Internal","15/16","Lwengo District","Primary Healthcare","Conditional Grant to PHC Salaries",1480126
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","Conditional Grant to PHC Salaries",743412
+"Internal","15/16","Mitooma District","Primary Healthcare","Conditional Grant to PHC Salaries",1151036
+"Internal","15/16","Rubirizi District","Primary Healthcare","Conditional Grant to PHC Salaries",736502
+"Internal","15/16","Ngora District","Primary Healthcare","Conditional Grant to PHC Salaries",1180777
+"Internal","15/16","Napak District","Primary Healthcare","Conditional Grant to PHC Salaries",1300787
+"Internal","15/16","Kibuku District","Primary Healthcare","Conditional Grant to PHC Salaries",1145270
+"Internal","15/16","Nwoya District","Primary Healthcare","Conditional Grant to PHC Salaries",1132436
+"Internal","15/16","Kole District","Primary Healthcare","Conditional Grant to PHC Salaries",1185867
+"Internal","15/16","Butambala District","Primary Healthcare","Conditional Grant to PHC Salaries",1462141
+"Internal","15/16","Sheema District","Primary Healthcare","Conditional Grant to PHC Salaries",2006782
+"Internal","15/16","Buhweju District","Primary Healthcare","Conditional Grant to PHC Salaries",551298
+"Internal","15/16","Agago District","Primary Healthcare","Conditional Grant to PHC Salaries",1478989
+"Internal","15/16","Kween District","Primary Healthcare","Conditional Grant to PHC Salaries",1505435
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",451881
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",1077024
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",523608
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",502982
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",1082272
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",382731
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",309840
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",226865
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",892588
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",517011
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",149584
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",694336
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",420004
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",1952236
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",287563
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",678918
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",208853
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",367120
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",265402
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",299488
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",392066
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Conditional Grant to PHC Salaries",470740
+"Internal","15/16","Adjumani District","Primary Healthcare","Conditional Grant to PHC- Non wage",185424
+"Internal","15/16","Apac District","Primary Healthcare","Conditional Grant to PHC- Non wage",217081
+"Internal","15/16","Arua District","Primary Healthcare","Conditional Grant to PHC- Non wage",413012
+"Internal","15/16","Bugiri District","Primary Healthcare","Conditional Grant to PHC- Non wage",232567
+"Internal","15/16","Bundibugyo District","Primary Healthcare","Conditional Grant to PHC- Non wage",144377
+"Internal","15/16","Bushenyi District","Primary Healthcare","Conditional Grant to PHC- Non wage",124764
+"Internal","15/16","Busia District","Primary Healthcare","Conditional Grant to PHC- Non wage",166937
+"Internal","15/16","Gulu District","Primary Healthcare","Conditional Grant to PHC- Non wage",182140
+"Internal","15/16","Hoima District","Primary Healthcare","Conditional Grant to PHC- Non wage",273819
+"Internal","15/16","Iganga District","Primary Healthcare","Conditional Grant to PHC- Non wage",259132
+"Internal","15/16","Jinja District","Primary Healthcare","Conditional Grant to PHC- Non wage",240996
+"Internal","15/16","Kabale District","Primary Healthcare","Conditional Grant to PHC- Non wage",298621
+"Internal","15/16","Kabarole District","Primary Healthcare","Conditional Grant to PHC- Non wage",248728
+"Internal","15/16","Kaberamaido District","Primary Healthcare","Conditional Grant to PHC- Non wage",136379
+"Internal","15/16","Kalangala District","Primary Healthcare","Conditional Grant to PHC- Non wage",81001
+"Internal","15/16","Kamuli District","Primary Healthcare","Conditional Grant to PHC- Non wage",282023
+"Internal","15/16","Kamwenge District","Primary Healthcare","Conditional Grant to PHC- Non wage",247696
+"Internal","15/16","Kanungu District","Primary Healthcare","Conditional Grant to PHC- Non wage",162398
+"Internal","15/16","Kapchorwa District","Primary Healthcare","Conditional Grant to PHC- Non wage",72127
+"Internal","15/16","Kasese District","Primary Healthcare","Conditional Grant to PHC- Non wage",301154
+"Internal","15/16","Katakwi District","Primary Healthcare","Conditional Grant to PHC- Non wage",136993
+"Internal","15/16","Kayunga District","Primary Healthcare","Conditional Grant to PHC- Non wage",226695
+"Internal","15/16","Kibale District","Primary Healthcare","Conditional Grant to PHC- Non wage",403317
+"Internal","15/16","Kiboga District","Primary Healthcare","Conditional Grant to PHC- Non wage",97353
+"Internal","15/16","Kisoro District","Primary Healthcare","Conditional Grant to PHC- Non wage",178634
+"Internal","15/16","Kitgum District","Primary Healthcare","Conditional Grant to PHC- Non wage",131814
+"Internal","15/16","Kotido District","Primary Healthcare","Conditional Grant to PHC- Non wage",149097
+"Internal","15/16","Kumi District","Primary Healthcare","Conditional Grant to PHC- Non wage",153483
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","Conditional Grant to PHC- Non wage",243446
+"Internal","15/16","Lira District","Primary Healthcare","Conditional Grant to PHC- Non wage",186649
+"Internal","15/16","Luwero District","Primary Healthcare","Conditional Grant to PHC- Non wage",267282
+"Internal","15/16","Masaka District","Primary Healthcare","Conditional Grant to PHC- Non wage",158720
+"Internal","15/16","Masindi District","Primary Healthcare","Conditional Grant to PHC- Non wage",126433
+"Internal","15/16","Mayuge District","Primary Healthcare","Conditional Grant to PHC- Non wage",277959
+"Internal","15/16","Mbale District","Primary Healthcare","Conditional Grant to PHC- Non wage",231622
+"Internal","15/16","Mbarara District","Primary Healthcare","Conditional Grant to PHC- Non wage",216362
+"Internal","15/16","Moroto District","Primary Healthcare","Conditional Grant to PHC- Non wage",77630
+"Internal","15/16","Moyo District","Primary Healthcare","Conditional Grant to PHC- Non wage",177158
+"Internal","15/16","Mpigi District","Primary Healthcare","Conditional Grant to PHC- Non wage",155440
+"Internal","15/16","Mubende District","Primary Healthcare","Conditional Grant to PHC- Non wage",368379
+"Internal","15/16","Mukono District","Primary Healthcare","Conditional Grant to PHC- Non wage",256049
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","Conditional Grant to PHC- Non wage",107057
+"Internal","15/16","Nakasongola District","Primary Healthcare","Conditional Grant to PHC- Non wage",119743
+"Internal","15/16","Nebbi District","Primary Healthcare","Conditional Grant to PHC- Non wage",226454
+"Internal","15/16","Ntungamo District","Primary Healthcare","Conditional Grant to PHC- Non wage",285307
+"Internal","15/16","Pader District","Primary Healthcare","Conditional Grant to PHC- Non wage",117777
+"Internal","15/16","Pallisa District","Primary Healthcare","Conditional Grant to PHC- Non wage",223996
+"Internal","15/16","Rakai District","Primary Healthcare","Conditional Grant to PHC- Non wage",303262
+"Internal","15/16","Rukungiri District","Primary Healthcare","Conditional Grant to PHC- Non wage",222729
+"Internal","15/16","Sembabule District","Primary Healthcare","Conditional Grant to PHC- Non wage",158363
+"Internal","15/16","Sironko District","Primary Healthcare","Conditional Grant to PHC- Non wage",153007
+"Internal","15/16","Soroti District","Primary Healthcare","Conditional Grant to PHC- Non wage",149221
+"Internal","15/16","Tororo District","Primary Healthcare","Conditional Grant to PHC- Non wage",283879
+"Internal","15/16","Wakiso District","Primary Healthcare","Conditional Grant to PHC- Non wage",769825
+"Internal","15/16","Yumbe District","Primary Healthcare","Conditional Grant to PHC- Non wage",276341
+"Internal","15/16","Butaleja District","Primary Healthcare","Conditional Grant to PHC- Non wage",152712
+"Internal","15/16","Ibanda District","Primary Healthcare","Conditional Grant to PHC- Non wage",157749
+"Internal","15/16","Kaabong District","Primary Healthcare","Conditional Grant to PHC- Non wage",234457
+"Internal","15/16","Isingiro District","Primary Healthcare","Conditional Grant to PHC- Non wage",285184
+"Internal","15/16","Kaliro District","Primary Healthcare","Conditional Grant to PHC- Non wage",147654
+"Internal","15/16","Kiruhura District","Primary Healthcare","Conditional Grant to PHC- Non wage",196607
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional Grant to PHC- Non wage",134089
+"Internal","15/16","Amolatar District","Primary Healthcare","Conditional Grant to PHC- Non wage",122560
+"Internal","15/16","Amuria District","Primary Healthcare","Conditional Grant to PHC- Non wage",168771
+"Internal","15/16","Manafwa District","Primary Healthcare","Conditional Grant to PHC- Non wage",207528
+"Internal","15/16","Bukwo District","Primary Healthcare","Conditional Grant to PHC- Non wage",85016
+"Internal","15/16","Mityana District","Primary Healthcare","Conditional Grant to PHC- Non wage",201059
+"Internal","15/16","Nakaseke District","Primary Healthcare","Conditional Grant to PHC- Non wage",126606
+"Internal","15/16","Amuru District","Primary Healthcare","Conditional Grant to PHC- Non wage",150969
+"Internal","15/16","Budaka District","Primary Healthcare","Conditional Grant to PHC- Non wage",128616
+"Internal","15/16","Oyam District","Primary Healthcare","Conditional Grant to PHC- Non wage",232623
+"Internal","15/16","Abim District","Primary Healthcare","Conditional Grant to PHC- Non wage",99291
+"Internal","15/16","Namutumba District","Primary Healthcare","Conditional Grant to PHC- Non wage",157497
+"Internal","15/16","Dokolo District","Primary Healthcare","Conditional Grant to PHC- Non wage",156003
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Grant to PHC- Non wage",98166
+"Internal","15/16","Maracha District","Primary Healthcare","Conditional Grant to PHC- Non wage",123040
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","Conditional Grant to PHC- Non wage",122280
+"Internal","15/16","Bududa District","Primary Healthcare","Conditional Grant to PHC- Non wage",133101
+"Internal","15/16","Lyantonde District","Primary Healthcare","Conditional Grant to PHC- Non wage",88395
+"Internal","15/16","Amudat District","Primary Healthcare","Conditional Grant to PHC- Non wage",76979
+"Internal","15/16","Buikwe District","Primary Healthcare","Conditional Grant to PHC- Non wage",251384
+"Internal","15/16","Buyende District","Primary Healthcare","Conditional Grant to PHC- Non wage",185197
+"Internal","15/16","Kyegegwa District","Primary Healthcare","Conditional Grant to PHC- Non wage",157784
+"Internal","15/16","Lamwo District","Primary Healthcare","Conditional Grant to PHC- Non wage",91385
+"Internal","15/16","Otuke District","Primary Healthcare","Conditional Grant to PHC- Non wage",71264
+"Internal","15/16","Zombo District","Primary Healthcare","Conditional Grant to PHC- Non wage",147815
+"Internal","15/16","Alebtong District","Primary Healthcare","Conditional Grant to PHC- Non wage",135791
+"Internal","15/16","Bulambuli District","Primary Healthcare","Conditional Grant to PHC- Non wage",110677
+"Internal","15/16","Buvuma District","Primary Healthcare","Conditional Grant to PHC- Non wage",61690
+"Internal","15/16","Gomba District","Primary Healthcare","Conditional Grant to PHC- Non wage",104709
+"Internal","15/16","Kiryandongo District","Primary Healthcare","Conditional Grant to PHC- Non wage",161163
+"Internal","15/16","Luuka District","Primary Healthcare","Conditional Grant to PHC- Non wage",147363
+"Internal","15/16","Namayingo District","Primary Healthcare","Conditional Grant to PHC- Non wage",134848
+"Internal","15/16","Ntoroko District","Primary Healthcare","Conditional Grant to PHC- Non wage",65193
+"Internal","15/16","Serere District","Primary Healthcare","Conditional Grant to PHC- Non wage",164693
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","Conditional Grant to PHC- Non wage",129420
+"Internal","15/16","Kalungu District","Primary Healthcare","Conditional Grant to PHC- Non wage",115910
+"Internal","15/16","Lwengo District","Primary Healthcare","Conditional Grant to PHC- Non wage",163803
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","Conditional Grant to PHC- Non wage",97891
+"Internal","15/16","Mitooma District","Primary Healthcare","Conditional Grant to PHC- Non wage",116494
+"Internal","15/16","Rubirizi District","Primary Healthcare","Conditional Grant to PHC- Non wage",84298
+"Internal","15/16","Ngora District","Primary Healthcare","Conditional Grant to PHC- Non wage",91404
+"Internal","15/16","Napak District","Primary Healthcare","Conditional Grant to PHC- Non wage",116927
+"Internal","15/16","Kibuku District","Primary Healthcare","Conditional Grant to PHC- Non wage",122971
+"Internal","15/16","Nwoya District","Primary Healthcare","Conditional Grant to PHC- Non wage",79611
+"Internal","15/16","Kole District","Primary Healthcare","Conditional Grant to PHC- Non wage",146849
+"Internal","15/16","Butambala District","Primary Healthcare","Conditional Grant to PHC- Non wage",66158
+"Internal","15/16","Sheema District","Primary Healthcare","Conditional Grant to PHC- Non wage",132102
+"Internal","15/16","Buhweju District","Primary Healthcare","Conditional Grant to PHC- Non wage",80191
+"Internal","15/16","Agago District","Primary Healthcare","Conditional Grant to PHC- Non wage",143643
+"Internal","15/16","Kween District","Primary Healthcare","Conditional Grant to PHC- Non wage",67072
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",50002
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",56443
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",45203
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",85935
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",60270
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",44349
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",57426
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",62449
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",58981
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",86841
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",26131
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",44018
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",45485
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",58012
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",54426
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",84495
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",33263
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",52128
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",29823
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",35401
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",24642
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Conditional Grant to PHC- Non wage",22671
+"Internal","15/16","Adjumani District","Primary Healthcare","Conditional Grant to NGO Hospitals",148283
+"Internal","15/16","Apac District","Primary Healthcare","Conditional Grant to NGO Hospitals",30370
+"Internal","15/16","Arua District","Primary Healthcare","Conditional Grant to NGO Hospitals",568325
+"Internal","15/16","Bugiri District","Primary Healthcare","Conditional Grant to NGO Hospitals",63036
+"Internal","15/16","Bundibugyo District","Primary Healthcare","Conditional Grant to NGO Hospitals",21337
+"Internal","15/16","Bushenyi District","Primary Healthcare","Conditional Grant to NGO Hospitals",728888
+"Internal","15/16","Busia District","Primary Healthcare","Conditional Grant to NGO Hospitals",92178
+"Internal","15/16","Gulu District","Primary Healthcare","Conditional Grant to NGO Hospitals",781662
+"Internal","15/16","Hoima District","Primary Healthcare","Conditional Grant to NGO Hospitals",32973
+"Internal","15/16","Iganga District","Primary Healthcare","Conditional Grant to NGO Hospitals",107426
+"Internal","15/16","Jinja District","Primary Healthcare","Conditional Grant to NGO Hospitals",177733
+"Internal","15/16","Kabale District","Primary Healthcare","Conditional Grant to NGO Hospitals",494249
+"Internal","15/16","Kabarole District","Primary Healthcare","Conditional Grant to NGO Hospitals",449161
+"Internal","15/16","Kaberamaido District","Primary Healthcare","Conditional Grant to NGO Hospitals",212942
+"Internal","15/16","Kalangala District","Primary Healthcare","Conditional Grant to NGO Hospitals",7642
+"Internal","15/16","Kamuli District","Primary Healthcare","Conditional Grant to NGO Hospitals",581827
+"Internal","15/16","Kamwenge District","Primary Healthcare","Conditional Grant to NGO Hospitals",54540
+"Internal","15/16","Kanungu District","Primary Healthcare","Conditional Grant to NGO Hospitals",198622
+"Internal","15/16","Kapchorwa District","Primary Healthcare","Conditional Grant to NGO Hospitals",4588
+"Internal","15/16","Kasese District","Primary Healthcare","Conditional Grant to NGO Hospitals",812807
+"Internal","15/16","Katakwi District","Primary Healthcare","Conditional Grant to NGO Hospitals",42479
+"Internal","15/16","Kayunga District","Primary Healthcare","Conditional Grant to NGO Hospitals",29960
+"Internal","15/16","Kibale District","Primary Healthcare","Conditional Grant to NGO Hospitals",97135
+"Internal","15/16","Kiboga District","Primary Healthcare","Conditional Grant to NGO Hospitals",23823
+"Internal","15/16","Kisoro District","Primary Healthcare","Conditional Grant to NGO Hospitals",353304
+"Internal","15/16","Kitgum District","Primary Healthcare","Conditional Grant to NGO Hospitals",428235
+"Internal","15/16","Kotido District","Primary Healthcare","Conditional Grant to NGO Hospitals",137551
+"Internal","15/16","Kumi District","Primary Healthcare","Conditional Grant to NGO Hospitals",312101
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","Conditional Grant to NGO Hospitals",80907
+"Internal","15/16","Lira District","Primary Healthcare","Conditional Grant to NGO Hospitals",53840
+"Internal","15/16","Luwero District","Primary Healthcare","Conditional Grant to NGO Hospitals",181053
+"Internal","15/16","Masaka District","Primary Healthcare","Conditional Grant to NGO Hospitals",397663
+"Internal","15/16","Masindi District","Primary Healthcare","Conditional Grant to NGO Hospitals",6889
+"Internal","15/16","Mayuge District","Primary Healthcare","Conditional Grant to NGO Hospitals",200940
+"Internal","15/16","Mbale District","Primary Healthcare","Conditional Grant to NGO Hospitals",170179
+"Internal","15/16","Mbarara District","Primary Healthcare","Conditional Grant to NGO Hospitals",311299
+"Internal","15/16","Moroto District","Primary Healthcare","Conditional Grant to NGO Hospitals",54546
+"Internal","15/16","Moyo District","Primary Healthcare","Conditional Grant to NGO Hospitals",57947
+"Internal","15/16","Mpigi District","Primary Healthcare","Conditional Grant to NGO Hospitals",293223
+"Internal","15/16","Mubende District","Primary Healthcare","Conditional Grant to NGO Hospitals",65853
+"Internal","15/16","Mukono District","Primary Healthcare","Conditional Grant to NGO Hospitals",183891
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","Conditional Grant to NGO Hospitals",54374
+"Internal","15/16","Nakasongola District","Primary Healthcare","Conditional Grant to NGO Hospitals",25487
+"Internal","15/16","Nebbi District","Primary Healthcare","Conditional Grant to NGO Hospitals",420641
+"Internal","15/16","Ntungamo District","Primary Healthcare","Conditional Grant to NGO Hospitals",21863
+"Internal","15/16","Pader District","Primary Healthcare","Conditional Grant to NGO Hospitals",23402
+"Internal","15/16","Pallisa District","Primary Healthcare","Conditional Grant to NGO Hospitals",115158
+"Internal","15/16","Rakai District","Primary Healthcare","Conditional Grant to NGO Hospitals",171025
+"Internal","15/16","Rukungiri District","Primary Healthcare","Conditional Grant to NGO Hospitals",716537
+"Internal","15/16","Sembabule District","Primary Healthcare","Conditional Grant to NGO Hospitals",33834
+"Internal","15/16","Sironko District","Primary Healthcare","Conditional Grant to NGO Hospitals",33038
+"Internal","15/16","Soroti District","Primary Healthcare","Conditional Grant to NGO Hospitals",43468
+"Internal","15/16","Tororo District","Primary Healthcare","Conditional Grant to NGO Hospitals",343236
+"Internal","15/16","Wakiso District","Primary Healthcare","Conditional Grant to NGO Hospitals",366881
+"Internal","15/16","Yumbe District","Primary Healthcare","Conditional Grant to NGO Hospitals",22991
+"Internal","15/16","Butaleja District","Primary Healthcare","Conditional Grant to NGO Hospitals",23268
+"Internal","15/16","Ibanda District","Primary Healthcare","Conditional Grant to NGO Hospitals",285685
+"Internal","15/16","Kaabong District","Primary Healthcare","Conditional Grant to NGO Hospitals",32159
+"Internal","15/16","Isingiro District","Primary Healthcare","Conditional Grant to NGO Hospitals",42263
+"Internal","15/16","Kaliro District","Primary Healthcare","Conditional Grant to NGO Hospitals",31078
+"Internal","15/16","Kiruhura District","Primary Healthcare","Conditional Grant to NGO Hospitals",228546
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional Grant to NGO Hospitals",17027
+"Internal","15/16","Amolatar District","Primary Healthcare","Conditional Grant to NGO Hospitals",161813
+"Internal","15/16","Amuria District","Primary Healthcare","Conditional Grant to NGO Hospitals",93570
+"Internal","15/16","Manafwa District","Primary Healthcare","Conditional Grant to NGO Hospitals",31000
+"Internal","15/16","Bukwo District","Primary Healthcare","Conditional Grant to NGO Hospitals",7520
+"Internal","15/16","Mityana District","Primary Healthcare","Conditional Grant to NGO Hospitals",140317
+"Internal","15/16","Nakaseke District","Primary Healthcare","Conditional Grant to NGO Hospitals",158696
+"Internal","15/16","Amuru District","Primary Healthcare","Conditional Grant to NGO Hospitals",48755
+"Internal","15/16","Budaka District","Primary Healthcare","Conditional Grant to NGO Hospitals",44034
+"Internal","15/16","Oyam District","Primary Healthcare","Conditional Grant to NGO Hospitals",360965
+"Internal","15/16","Abim District","Primary Healthcare","Conditional Grant to NGO Hospitals",119867
+"Internal","15/16","Namutumba District","Primary Healthcare","Conditional Grant to NGO Hospitals",86015
+"Internal","15/16","Dokolo District","Primary Healthcare","Conditional Grant to NGO Hospitals",15168
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Grant to NGO Hospitals",320682
+"Internal","15/16","Maracha District","Primary Healthcare","Conditional Grant to NGO Hospitals",38086
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","Conditional Grant to NGO Hospitals",316328
+"Internal","15/16","Bududa District","Primary Healthcare","Conditional Grant to NGO Hospitals",90505
+"Internal","15/16","Lyantonde District","Primary Healthcare","Conditional Grant to NGO Hospitals",11301
+"Internal","15/16","Amudat District","Primary Healthcare","Conditional Grant to NGO Hospitals",14343
+"Internal","15/16","Buikwe District","Primary Healthcare","Conditional Grant to NGO Hospitals",17821
+"Internal","15/16","Buyende District","Primary Healthcare","Conditional Grant to NGO Hospitals",336750
+"Internal","15/16","Kyegegwa District","Primary Healthcare","Conditional Grant to NGO Hospitals",18647
+"Internal","15/16","Lamwo District","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Otuke District","Primary Healthcare","Conditional Grant to NGO Hospitals",9585
+"Internal","15/16","Zombo District","Primary Healthcare","Conditional Grant to NGO Hospitals",16644
+"Internal","15/16","Alebtong District","Primary Healthcare","Conditional Grant to NGO Hospitals",201683
+"Internal","15/16","Bulambuli District","Primary Healthcare","Conditional Grant to NGO Hospitals",6844
+"Internal","15/16","Buvuma District","Primary Healthcare","Conditional Grant to NGO Hospitals",14094
+"Internal","15/16","Gomba District","Primary Healthcare","Conditional Grant to NGO Hospitals",16077
+"Internal","15/16","Kiryandongo District","Primary Healthcare","Conditional Grant to NGO Hospitals",32052
+"Internal","15/16","Luuka District","Primary Healthcare","Conditional Grant to NGO Hospitals",53460
+"Internal","15/16","Namayingo District","Primary Healthcare","Conditional Grant to NGO Hospitals",25033
+"Internal","15/16","Ntoroko District","Primary Healthcare","Conditional Grant to NGO Hospitals",9903
+"Internal","15/16","Serere District","Primary Healthcare","Conditional Grant to NGO Hospitals",35364
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","Conditional Grant to NGO Hospitals",43822
+"Internal","15/16","Kalungu District","Primary Healthcare","Conditional Grant to NGO Hospitals",267124
+"Internal","15/16","Lwengo District","Primary Healthcare","Conditional Grant to NGO Hospitals",73554
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","Conditional Grant to NGO Hospitals",48968
+"Internal","15/16","Mitooma District","Primary Healthcare","Conditional Grant to NGO Hospitals",18165
+"Internal","15/16","Rubirizi District","Primary Healthcare","Conditional Grant to NGO Hospitals",17932
+"Internal","15/16","Ngora District","Primary Healthcare","Conditional Grant to NGO Hospitals",473402
+"Internal","15/16","Napak District","Primary Healthcare","Conditional Grant to NGO Hospitals",606820
+"Internal","15/16","Kibuku District","Primary Healthcare","Conditional Grant to NGO Hospitals",28720
+"Internal","15/16","Nwoya District","Primary Healthcare","Conditional Grant to NGO Hospitals",24151
+"Internal","15/16","Kole District","Primary Healthcare","Conditional Grant to NGO Hospitals",9924
+"Internal","15/16","Butambala District","Primary Healthcare","Conditional Grant to NGO Hospitals",25212
+"Internal","15/16","Sheema District","Primary Healthcare","Conditional Grant to NGO Hospitals",17707
+"Internal","15/16","Buhweju District","Primary Healthcare","Conditional Grant to NGO Hospitals",17707
+"Internal","15/16","Agago District","Primary Healthcare","Conditional Grant to NGO Hospitals",550849
+"Internal","15/16","Kween District","Primary Healthcare","Conditional Grant to NGO Hospitals",14362
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Conditional Grant to NGO Hospitals",0
+"Internal","15/16","Adjumani District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Apac District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",250080
+"Internal","15/16","Arua District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",303531
+"Internal","15/16","Bugiri District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bundibugyo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bushenyi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",143830
+"Internal","15/16","Busia District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Gulu District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Hoima District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Iganga District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Jinja District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kabale District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kabarole District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kaberamaido District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",171483
+"Internal","15/16","Kalangala District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kamuli District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kamwenge District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kanungu District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kapchorwa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kasese District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Katakwi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",123863
+"Internal","15/16","Kayunga District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kibale District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kiboga District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kisoro District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kitgum District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kotido District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kumi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",208048
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Lira District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",167839
+"Internal","15/16","Luwero District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Masaka District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Masindi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mayuge District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mbale District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mbarara District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",81018
+"Internal","15/16","Moroto District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Moyo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",109407
+"Internal","15/16","Mpigi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mubende District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mukono District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Nakasongola District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Nebbi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",100782
+"Internal","15/16","Ntungamo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Pader District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Pallisa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",290168
+"Internal","15/16","Rakai District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Rukungiri District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Sembabule District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Sironko District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Soroti District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",192134
+"Internal","15/16","Tororo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Wakiso District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Yumbe District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",209385
+"Internal","15/16","Butaleja District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",180108
+"Internal","15/16","Ibanda District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kaabong District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Isingiro District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kaliro District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kiruhura District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional Sanitation and Hygiene Grant - Health Component",74542
+"Internal","15/16","Amolatar District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",80981
+"Internal","15/16","Amuria District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",406368
+"Internal","15/16","Manafwa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bukwo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mityana District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Nakaseke District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Amuru District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Budaka District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",83289
+"Internal","15/16","Oyam District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Abim District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Namutumba District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Dokolo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",93979
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Maracha District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",119765
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",151803
+"Internal","15/16","Bududa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Lyantonde District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Amudat District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Buikwe District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Buyende District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kyegegwa District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Lamwo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Otuke District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",96166
+"Internal","15/16","Zombo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",91874
+"Internal","15/16","Alebtong District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",142085
+"Internal","15/16","Bulambuli District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",105034
+"Internal","15/16","Buvuma District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Gomba District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kiryandongo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Luuka District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Namayingo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Ntoroko District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Serere District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",238783
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kalungu District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Lwengo District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mitooma District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Rubirizi District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Ngora District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",84382
+"Internal","15/16","Napak District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kibuku District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",103211
+"Internal","15/16","Nwoya District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kole District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",178043
+"Internal","15/16","Butambala District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Sheema District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",96409
+"Internal","15/16","Buhweju District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Agago District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kween District","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",0
+"Internal","15/16","Adjumani District","Primary Healthcare","General Hospitals Rehabilitation",400000
+"Internal","15/16","Apac District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Arua District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bugiri District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Bundibugyo District","Primary Healthcare","General Hospitals Rehabilitation",400000
+"Internal","15/16","Bushenyi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Busia District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Gulu District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Hoima District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Iganga District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Jinja District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kabale District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kabarole District","Primary Healthcare","General Hospitals Rehabilitation",350000
+"Internal","15/16","Kaberamaido District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kalangala District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kamuli District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kamwenge District","Primary Healthcare","General Hospitals Rehabilitation",250000
+"Internal","15/16","Kanungu District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kapchorwa District","Primary Healthcare","General Hospitals Rehabilitation",300000
+"Internal","15/16","Kasese District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Katakwi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kayunga District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kibale District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kiboga District","Primary Healthcare","General Hospitals Rehabilitation",300000
+"Internal","15/16","Kisoro District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kitgum District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Kotido District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kumi District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Kyenjonjo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Lira District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Luwero District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Masaka District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Masindi District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Mayuge District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mbale District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mbarara District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Moroto District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Moyo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mpigi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mubende District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mukono District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Nakapiripirit District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Nakasongola District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Nebbi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Ntungamo District","Primary Healthcare","General Hospitals Rehabilitation",600000
+"Internal","15/16","Pader District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Pallisa District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Rakai District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Rukungiri District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Sembabule District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Sironko District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Soroti District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Tororo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Wakiso District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Yumbe District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Butaleja District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Ibanda District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kaabong District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Isingiro District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kaliro District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kiruhura District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Koboko District","Primary Healthcare","Conditional General Hospitals Rehabilitation",0
+"Internal","15/16","Amolatar District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Amuria District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Manafwa District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bukwo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mityana District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Nakaseke District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Amuru District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Budaka District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Oyam District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Abim District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Namutumba District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Dokolo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bullisa District","Primary Healthcare","Conditional General Hospitals Rehabilitation",0
+"Internal","15/16","Maracha District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bukedea Distrct","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bududa District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Lyantonde District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Amudat District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Buikwe District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Buyende District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kyegegwa District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Lamwo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Otuke District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Zombo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Alebtong District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bulambuli District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Buvuma District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Gomba District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kiryandongo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Luuka District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Namayingo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Ntoroko District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Serere District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kyankwanzi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kalungu District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Lwengo District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Bukomansimbi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mitooma District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Rubirizi District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Ngora District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Napak District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kibuku District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Nwoya District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kole District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Butambala District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Sheema District","Primary Healthcare","General Hospitals Rehabilitation",700000
+"Internal","15/16","Buhweju District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Agago District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kween District","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Arua Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Entebbe Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Fort-Portal Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Gulu Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Jinja Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kabale Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Lira Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Masaka Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mbale Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mbarara Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Moroto Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Soroti Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Tororo Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Kasese Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Hoima Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Mukono Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Iganga Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Masindi Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Ntungamo Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Busia Municipal Council","Primary Healthcare","Conditional Grant General Hospitals Rehabilitation",0
+"Internal","15/16","Bushenyi - Ishaka Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","15/16","Rukungiri Municipal Council","Primary Healthcare","General Hospitals Rehabilitation",0
+"Internal","14/15","Health","Primary Healthcare","Conditional Grant to NGO Hospitals",17195000
+"Internal","14/15","Health","Primary Healthcare","Conditional Grant to PHC Salaries",250610000
+"Internal","14/15","Health","Primary Healthcare","Conditional Grant to PHC- Non wage",15839000
+"Internal","14/15","Health","Primary Healthcare","Conditional Grant to District Hospitals",9140000
+"External","14/15","Health","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",4510000
+"Internal","13/14","Health","Primary Healthcare","Conditional Grant to NGO Hospitals",17195000
+"Internal","13/14","Health","Primary Healthcare","Conditional Grant to PHC Salaries",228690000
+"Internal","13/14","Health","Primary Healthcare","Conditional Grant to PHC- Non wage",45920000
+"Internal","13/14","Health","Primary Healthcare","Conditional Grant to District Hospitals",5940000
+"External","13/14","Health","Primary Healthcare","Sanitation and Hygiene Grant - Health Component",2210000
